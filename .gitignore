@@ -1,6 +1,5 @@
 #파일
-main_print_v1.ipypb
-*.avi
+*.ipynb
 
 #폴더
 venv/
